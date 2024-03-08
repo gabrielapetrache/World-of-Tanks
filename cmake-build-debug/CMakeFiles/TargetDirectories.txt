@@ -1,0 +1,4 @@
+/Users/gabrielapetrache/Desktop/vaca scoala/a3s1/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/GFXFramework.dir
+/Users/gabrielapetrache/Desktop/vaca scoala/a3s1/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/new_target.dir
+/Users/gabrielapetrache/Desktop/vaca scoala/a3s1/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielapetrache/Desktop/vaca scoala/a3s1/egc/gfx-framework-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
